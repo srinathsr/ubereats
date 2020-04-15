@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ubereats/static/css/main.3d087e9c.chunk.css",
+    "main.js": "/ubereats/static/js/main.34f4d323.chunk.js",
+    "main.js.map": "/ubereats/static/js/main.34f4d323.chunk.js.map",
+    "runtime-main.js": "/ubereats/static/js/runtime-main.234ed3de.js",
+    "runtime-main.js.map": "/ubereats/static/js/runtime-main.234ed3de.js.map",
+    "static/js/2.99ca8f46.chunk.js": "/ubereats/static/js/2.99ca8f46.chunk.js",
+    "static/js/2.99ca8f46.chunk.js.map": "/ubereats/static/js/2.99ca8f46.chunk.js.map",
+    "index.html": "/ubereats/index.html",
+    "precache-manifest.d16734bb9e3ee6a4c11eb308dc29335b.js": "/ubereats/precache-manifest.d16734bb9e3ee6a4c11eb308dc29335b.js",
+    "service-worker.js": "/ubereats/service-worker.js",
+    "static/css/main.3d087e9c.chunk.css.map": "/ubereats/static/css/main.3d087e9c.chunk.css.map",
+    "static/js/2.99ca8f46.chunk.js.LICENSE.txt": "/ubereats/static/js/2.99ca8f46.chunk.js.LICENSE.txt",
+    "static/media/shop.png": "/ubereats/static/media/shop.96b02991.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.234ed3de.js",
+    "static/js/2.99ca8f46.chunk.js",
+    "static/css/main.3d087e9c.chunk.css",
+    "static/js/main.34f4d323.chunk.js"
+  ]
+}
